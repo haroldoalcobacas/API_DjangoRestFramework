@@ -1,0 +1,33 @@
+# Arquivos do Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Virtualenv
+venv/
+env/
+
+# Arquivos de ambiente
+.env
+.env.local
+.env*.local
+
+# IDE/Editores
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Dependências
+node_modules/
+bower_components/
+
+# Banco de dados local
+*.sqlite3
+*.db
+
+# Arquivos de log e debug
+*.log
+npm-debug.log*
+
